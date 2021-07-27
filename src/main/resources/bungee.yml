@@ -1,0 +1,5 @@
+name: BungeeMotd
+version: ${project.version}
+author: Dysaido
+main: xyz.dysaido.bungeemotd.BungeeMotd
+description: This is a bungeee motd editor
